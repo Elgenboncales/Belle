@@ -1,0 +1,19 @@
+body {
+  background-color: gray;
+  border-style: solid;
+  border-radius: 5px;
+}
+h1 {
+  background-color: pink;
+  text-align-last: center;
+  border-radius: 6px;
+  margin: 5px;
+}
+
+p {
+  margin: 6px;
+  font-family: Times New Roman;
+  font-size: 20px;
+  
+  
+}
